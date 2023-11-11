@@ -21,7 +21,7 @@
 ╚█████╔╝███████╗╚██████╔╝██████╦╝<br>
 ░╚════╝░╚══════╝░╚═════╝░╚═════╝░<br>
 
-## The MITS Media Club provides a dynamic platform for students to showcase their creativity in various forms of media, including photography, photo editing, video editing, design, and poster making. The club is known for its exceptional ability to create visually appealing posters and content. We also organize all college events, ensuring their smooth execution and success.
+The MITS Media Club provides a dynamic platform for students to showcase their creativity in various forms of media, including photography, photo editing, video editing, design, and poster making. The club is known for its exceptional ability to create visually appealing posters and content. We also organize all college events, ensuring their smooth execution and success.
 
 The <b>Media Club's</b> contributions are especially noteworthy during the annual tech fest, Shreshta 2023, where the club's expertise played an integral role in enhancing the overall experience of attendees. The club's captivating posters and visually engaging content helped to attract a larger audience and create a buzz around the event. The team worked with sheer determination to make sure the event was conducted properly and that everything was in order.
 
